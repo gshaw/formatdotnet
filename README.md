@@ -2,6 +2,8 @@
 
 A simple free .NET tool to help with creating String Format Expressions.
 
+![Format Designer Screen Shot](https://raw.github.com/gshaw/formatdotnet/master/bin/FormatDesigner.png)
+
 ## Instructions
 
 1. Type a Value.
